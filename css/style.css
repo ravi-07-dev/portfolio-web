@@ -1002,6 +1002,9 @@ body.offcanvas {
       .project .desc span a {
         color: #000; }
     @media screen and (max-width: 768px) {
+      .project {
+        height: 380px;
+      }
       .project .desc {
         opacity: 1;
         background: rgba(0, 0, 0, 0.4); }
